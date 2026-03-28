@@ -1,31 +1,45 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:581C87,100:A855F7&height=200&section=header&text=👋%20Hellooo!%20I'm%20Darren%20Shen&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
 
-## 👋 Hi, I’m Darren Shen
+<p align="center">
+  Software Engineering @ San José State University 👨‍💻 <br>
+  Incoming Full-Stack SWE Intern @ <b>Experian</b> (Summer 2026) <br>
+  Passionate about building scalable applications and AI.
+</p>
 
-🎓 **Computer Engineering @ San José State University**  
-💡 Passionate about **building scalable applications, embedded systems, and AI.**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:581C87,100:A855F7&height=2&section=header"/>
+</p>
 
----
+<h3 align="center">🛠️ Skills</h3>
 
-### 🛠️ Skills
+<p align="center">
+<b>Languages</b><br>
+Java · JavaScript · TypeScript · Python · C · MATLAB · SQL · Kotlin · Golang
+</p>
 
-**Languages**  
-Java · JavaScript · TypeScript · Python · C · MATLAB · SQL · Kotlin  
+<p align="center">
+<b>Frameworks</b><br>
+React.js · Next.js · FastAPI · Spring Boot · Tailwind CSS · gRPC · Android SDK · Node.js · Express.js · LangGraph
+</p>
 
-**Frameworks**  
-React.js · Next.js · FastAPI · Spring Boot · Tailwind CSS · gRPC · Android SDK · Node.js · Express.js · LangGraph 
+<p align="center">
+<b>Technologies</b><br>
+Supabase (PostgreSQL) · Amazon S3 · Vercel · GitHub · Docker · MongoDB · Postman · OpenCV
+</p>
 
-**Technologies**  
-Supabase (PostgreSQL) · Amazon S3 · Vercel · GitHub · Docker · MongoDB · Postman
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:581C87,100:A855F7&height=2&section=header"/>
+</p>
 
----
+<h3 align="center">📫 Contact</h3>
 
-### 🌎 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/darrensshen)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://darrensshen.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-dshen889@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:dshen889@gmail.com)
-
----
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/darrensshen">
+    <img src="https://img.shields.io/badge/LinkedIn-Darren%20Shen-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dshen889@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
