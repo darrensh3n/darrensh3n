@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:581C87,100:A855F7&height=200&section=header&text=👋%20Hellooo!%20I'm%20Darren%20Shen&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</p>
-
-<p align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:581C87,100:A855F7&height=160&section=header&text=👋%20Hello!%20I'm%20Darren%20Shen&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+  <br>
   Software Engineering @ San José State University 👨‍💻 <br>
   Incoming Full-Stack SWE Intern @ <b>Experian</b> (Summer 2026) <br>
   Passionate about building scalable applications and AI.
-</p>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:581C87,100:A855F7&height=2&section=header"/>
@@ -16,7 +14,7 @@
 
 <p align="center">
 <b>Languages</b><br>
-Java · JavaScript · TypeScript · Python · C · MATLAB · SQL · Kotlin · Golang
+Java · JavaScript · TypeScript · Python · C · SQL · Kotlin · Golang
 </p>
 
 <p align="center">
@@ -26,7 +24,7 @@ React.js · Next.js · FastAPI · Spring Boot · Tailwind CSS · gRPC · Android
 
 <p align="center">
 <b>Technologies</b><br>
-Supabase (PostgreSQL) · Amazon S3 · Vercel · GitHub · Docker · MongoDB · Postman · OpenCV
+Docker • GitLab CI/CD • Google Cloud Run • PostgreSQL • Supabase • Vercel • AWS S3 • MongoDB • Postman
 </p>
 
 <p align="center">
@@ -39,7 +37,7 @@ Supabase (PostgreSQL) · Amazon S3 · Vercel · GitHub · Docker · MongoDB · P
   <a href="https://linkedin.com/in/darrensshen">
     <img src="https://img.shields.io/badge/LinkedIn-Darren%20Shen-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:dshen889@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:darren.shen@sjsu.edu">
+    <img src="https://img.shields.io/badge/Email-darren.shen@sjsu.edu-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
