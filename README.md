@@ -1,43 +1,34 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:581C87,100:A855F7&height=160&section=header&text=👋%20Hello!%20I'm%20Darren%20Shen&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
-  <br>
-  Software Engineering @ San José State University 👨‍💻 <br>
-  Incoming Full-Stack SWE Intern @ <b>Experian</b> (Summer 2026) <br>
-  Passionate about building scalable applications and AI.
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=750&speed=35&color=990000&center=false&vCenter=true&width=600&height=70&lines=%F0%9F%91%8B+Hi,+I'm+Darren!)](https://git.io/typing-svg)
+<br>
+### About Me:
+🎓 B.S. Computer Science @ University of Southern California ✌️
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:581C87,100:A855F7&height=2&section=header"/>
-</p>
+🧑‍💻 SWE Intern @ Experian | May 2026 - Aug. 2026
 
-<h3 align="center">🛠️ Skills</h3>
+🔬 Undergrad Research Assistant @ SJSU CS Systems Group | Aug. 2024 - May 2026
 
-<p align="center">
-<b>Languages</b><br>
-Java · JavaScript · TypeScript · Python · C · SQL · Kotlin · Golang
-</p>
+💻 SWE Intern @ Software & Computer Engineering Society, SJSU | Feb. 2026 - May 2026
 
-<p align="center">
-<b>Frameworks</b><br>
-React.js · Next.js · FastAPI · Spring Boot · Tailwind CSS · gRPC · Android SDK · Node.js · Express.js · LangGraph
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:990000,100:FFCC00&height=3&section=header"/>
 
-<p align="center">
-<b>Technologies</b><br>
-Docker • GitLab CI/CD • Google Cloud Run • PostgreSQL • Supabase • Vercel • AWS S3 • MongoDB • Postman
-</p>
+### Projects:
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:581C87,100:A855F7&height=2&section=header"/>
-</p>
+- **[Trick](https://github.com/SJSU-CS-systems-group/trick.git)** 🏆 *CSCSU 2026 Best Paper Runner-Up*
+  - End-to-end encrypted serverless peer-to-peer messaging app via Wi-Fi Aware
+ 
+- **[GraphGuard](https://github.com/RonCodes88/GraphGuard.git)** 🏆 *Customer Choice Award @ A10 Agentic AI Hackathon*
+  - A multi-agent network security app for automated threat detection and response from global network traffic
+ 
+- **[FirstWaveAI](https://github.com/darrensh3n/FirstWaveAI.git)** 🏆 *Moonshot Prize @ United Hacks V6 Hackathon*
+  - A multi-agent emergency intake system that converts 911 calls into prioritized reports and dispatch guidance
 
-<h3 align="center">📫 Contact</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:990000,100:FFCC00&height=3&section=header"/>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/darrensshen">
-    <img src="https://img.shields.io/badge/LinkedIn-Darren%20Shen-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Darren%20Shen-990000?style=for-the-badge&logo=linkedin&logoColor=FFCC00"/>
   </a>
-  <a href="mailto:darren.shen@sjsu.edu">
-    <img src="https://img.shields.io/badge/Email-darren.shen@sjsu.edu-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:darrens@usc.edu">
+    <img src="https://img.shields.io/badge/Email-darrens@usc.edu-990000?style=for-the-badge&logo=gmail&logoColor=FFCC00"/>
   </a>
 </p>
