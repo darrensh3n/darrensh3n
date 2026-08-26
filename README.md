@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=750&speed=35&color=990000&center=false&vCenter=true&width=600&height=70&lines=%F0%9F%91%8B+Hi,+I'm+Darren!)](https://git.io/typing-svg)
 <br>
 ### About Me:
-🎓 B.S. Computer Science @ University of Southern California ✌️
+🎓 B.S. Computer Science @ the University of Southern California ✌️
 
 🧑‍💻 SWE Intern @ Experian | May 2026 - Aug. 2026
 
 🔬 Undergrad Research Assistant @ SJSU CS Systems Group | Aug. 2024 - May 2026
 
-💻 SWE Intern @ Software & Computer Engineering Society, SJSU | Feb. 2026 - May 2026
+💻 SWE Intern @ Software & Computer Engineering Society | Feb. 2026 - May 2026
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:990000,100:FFCC00&height=3&section=header"/>
 
